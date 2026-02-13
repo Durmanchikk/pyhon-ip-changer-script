@@ -6,7 +6,10 @@
 
 ## 𝗘𝗡𝗚𝗟𝗜𝗦𝗛👾🛜
 A Python script for changing IP addresses
-
+## install
+```
+git curl https://github.com/Durmanchikk/pyhon-ip-changer-script/blob/main/project_ip_changer.py
+```
 ## use
 ![alt text](https://github.com/Durmanchikk/sd/blob/main/pizd.gif)
 
